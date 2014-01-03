@@ -113,6 +113,8 @@ You can find those in the [tests directory](https://github.com/Cocos2DXNA/cocos2
 Additional samples will be forthcoming as we find time to add more for you. 
 
 
+### Tutorials
 
-
+You can find a tutorial on how to build an iOS Game with Cocos2d-XNA in the Xamarin Developer Center:
+[Cocos2D-XNA tutorial](http://docs.xamarin.com/guides/cross-platform/cocos2d_xna/cocos2dxna_tutorial/)
 
